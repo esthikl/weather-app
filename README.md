@@ -1,2 +1,2 @@
 # weather-app
-Small app always have get some weather data :)
+Small app to get some weather data :)
